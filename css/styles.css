@@ -43,13 +43,12 @@ p {
 }
 
 a {
-  color: #11999e;
   font-family: "Montserrat", sans-serif;
+  color: #11999e;
 }
 
 a:hover {
   color: #eaf6f6;
-  font-family: "Montserrat", sans-serif;
 }
 
 /* =================
